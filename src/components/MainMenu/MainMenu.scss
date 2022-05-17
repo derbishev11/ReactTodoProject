@@ -1,0 +1,18 @@
+nav {
+    background-color: #68749b;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    .nav-link {
+        text-decoration: none;
+        color: #fff;
+        margin-right: 30px;
+        text-transform: uppercase;
+    }
+
+    .nav-link:hover {
+        border-bottom: 2px solid #dbdbdb;
+        border-radius: 1px;
+        color: #dbdbdb;
+    }
+}
